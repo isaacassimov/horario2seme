@@ -1,0 +1,13 @@
+.IE {background-color:yellow;}
+.LHS {background-color:orange;}
+.TICs {background-color:pink;}
+.CG {background-color:#139ff9;}
+.A1 {background-color:red;}
+.M2 {background-color:#8888f8;}
+.ERS {background-color:turquoise;}
+table,tr,td {
+    border: 3px solid #cecece;
+    border-collapse:collapse ;
+    text-align: center;
+    table-layout:fixed ;}
+.red {align:center ;color:red;}
